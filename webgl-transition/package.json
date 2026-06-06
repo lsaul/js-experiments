@@ -1,0 +1,27 @@
+{
+  "name": "webgl-transition",
+  "version": "1.0.0",
+  "description": "webgl transition shader experiment",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsaul/js-experiments.git"
+  },
+  "author": "Lloyd Saulpaugh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lsaul/js-experiments/issues"
+  },
+  "homepage": "https://github.com/lsaul/js-experiments#readme",
+  "devDependencies": {
+    "vite": "^8.0.16"
+  },
+  "dependencies": {
+    "gsap": "^3.15.0",
+    "lenis": "^1.3.23",
+    "three": "^0.184.0"
+  }
+}
